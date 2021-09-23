@@ -1,0 +1,45 @@
+h1 {
+  color: magenta;
+  font-family: cooper black;
+  font-size: 400%;
+}
+
+fig img {
+ width: 500%
+ height: auto;
+}
+
+body {
+  font-family: calibri;
+  font-size: 150%;
+}
+
+fig img {
+ width: 200%
+ height: auto;
+}
+
+p img {
+  float: right;
+  max width: 10%;
+}
+
+fig img {
+float: right;
+}
+
+h2 {
+ color: magenta;
+  font-family: cooper black;
+  font-size: 40px;
+}
+
+p img {
+  width: 200%;
+  height: auto;
+}
+
+p {
+  font-family: calibri;
+  font-size: 100%;
+}
