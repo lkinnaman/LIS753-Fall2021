@@ -1,5 +1,5 @@
 h1 {
-  color: magenta;
+  color: #ED0CAA;
   font-family: cooper black;
   font-size: 400%;
 }
@@ -26,6 +26,36 @@ p img {
 
 fig img {
 float: right;
+}
+
+nav ul {
+  background-color: #C40CED;
+  display: inline-block;
+  width: 200px;
+  list-style: none;
+  padding-left: 0;
+  border: 1px solid #8B0AA8;
+}
+
+nav ul li {
+
+}
+
+nav ul li a {
+  background-color: #C40CED;
+  color: #ffffff;
+  text-decoration: none;
+  padding: 8px;
+  border-bottom: 1px solid #8B0AA8;
+  display: block;
+}
+
+nav ul li a:hover {
+  background-color: #8B0AA8;
+}
+
+nav ul li:last-child a {
+  border-bottom: none;
 }
 
 h2 {
