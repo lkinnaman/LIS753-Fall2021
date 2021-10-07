@@ -4,7 +4,7 @@ h1 {
   font-size: 400%;
 }
 
-fig img {
+figure img {
  width: 400%
  height: auto;
 }
@@ -14,7 +14,7 @@ body {
   font-size: 150%;
 }
 
-fig img {
+figure img {
  width: 200%
  height: auto;
 }
@@ -24,7 +24,7 @@ p img {
   max width: 10%;
 }
 
-fig img {
+figure img {
 float: right;
 }
 
@@ -59,7 +59,7 @@ nav ul li:last-child a {
 }
 
 h2 {
- color: magenta;
+ color: #ED0CAA;
   font-family: cooper black;
   font-size: 40px;
 }
