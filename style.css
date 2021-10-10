@@ -33,7 +33,7 @@ figure img {
 }
 
 p img {
-  float: right;
+  float: left;
   max width: 10%;
 }
 
