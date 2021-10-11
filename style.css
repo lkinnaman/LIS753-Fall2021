@@ -1,12 +1,12 @@
 h1 {
-  color: #ED0CAA;
+  color: #FA08A1;
   font-family: cooper black;
   font-size: 72px;
   text-align: center;
 }
 
 h1#site-title {
-  color: #ED0CAA;
+  color: #FA08A1;
   font-family: cooper black;
   font-size: 60px;
   text-align: center;
@@ -42,10 +42,9 @@ float: right;
 }
 
 nav ul {
-  background-color: #FF0000;
   display: flex;
   justify-content: center;
-  gap: 30px
+  gap: 40px
   list-style: none;
   padding-left: 0;
   border: none;
@@ -56,11 +55,11 @@ nav ul li {
 }
 
 nav ul li a {
-  background-color: #FF0000;
-  color: #ffffff;
+  background-color: #FA0D334;
   text-decoration: none;
+  color: #ffffff;
   padding: 8px;
-  border-bottom: 1px solid #FF0000;
+  border-bottom: 1px solid #FA0D334;
   display: block;
 }
 
@@ -94,9 +93,8 @@ p {
 
 footer#page-footer {
 padding: 32px 0;
-margin-top: 64px
- text-align: center;
- border-top: 1px solid MediumVioletRed;
- background-color: red
- color: #ffffff;
+margin-top: 64px;
+text-align: center;
+background-color: #FA0D334
+color: #ffffff;
 }
