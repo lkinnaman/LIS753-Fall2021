@@ -13,7 +13,7 @@ h1#site-title {
 }
 
 h1#article-title {
-  font-size: 36px
+  font-size: 30px
   text-align: center;
 }
 
@@ -42,6 +42,7 @@ float: right;
 }
 
 nav ul {
+  background-color: #FA0D334;
   display: flex;
   justify-content: center;
   gap: 40px
