@@ -13,7 +13,7 @@ h1#site-title {
 }
 
 h1#article-title {
-  font-size: 48px
+  font-size: 36px
   text-align: center;
 }
 
@@ -28,7 +28,7 @@ body {
 }
 
 figure img {
- width: 200%
+ width: 100%
  height: auto;
 }
 
@@ -42,7 +42,7 @@ float: right;
 }
 
 nav ul {
-  background-color: #C40CED;
+  background-color: #FF0000;
   display: flex;
   justify-content: center;
   gap: 30px
@@ -56,16 +56,16 @@ nav ul li {
 }
 
 nav ul li a {
-  background-color: #red;
+  background-color: #FF0000;
   color: #ffffff;
   text-decoration: none;
   padding: 8px;
-  border-bottom: 1px solid #8B0AA8;
+  border-bottom: 1px solid #FF0000;
   display: block;
 }
 
 nav ul li a:hover {
-  background-color: #red;
+  background-color: #FF0000;
 }
 
 footer nav {
@@ -93,7 +93,10 @@ p {
 }
 
 footer#page-footer {
+padding: 32px 0;
+margin-top: 64px
  text-align: center;
+ border-top: 1px solid MediumVioletRed;
  background-color: red
  color: #ffffff;
 }
