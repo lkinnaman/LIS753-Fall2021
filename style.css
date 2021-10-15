@@ -13,7 +13,7 @@ h1#site-title {
 }
 
 h1#article-title {
-  font-size: 60px;
+  font-size: 40px;
   text-align: center;
 }
 
@@ -35,7 +35,7 @@ body {
 }
 
 figure img {
-  width: 100%
+  width: 100%;
   height: auto;
 }
 
@@ -61,7 +61,7 @@ nav ul {
   background-color: #FA0D334;
   display: flex;
   justify-content: center;
-  gap: 40px
+  gap: 40px;
   list-style: none;
   padding-left: 0;
   border: none;
@@ -91,8 +91,8 @@ nav ul li:last-child a {
 
 h2 {
  color: #FA08A1;
-  font-family: cooper black;
-  font-size: 40px;
+  font-family: calibri;
+  font-size: 20px;
 }
 
 p img {
