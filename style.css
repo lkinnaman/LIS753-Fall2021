@@ -25,7 +25,7 @@ h2 {
 
 
 figure img {
- width: 50%;
+ width: 40%;
  height: auto;
 }
 
@@ -79,8 +79,10 @@ nav ul li a {
   display: block;
 }
 
-nav ul li a: hover {
-  background-color: #FF0000;
+nav ul li a {
+  hover;
+  font-color: #FF0000
+  background-color: #FA0D334;
 }
 
 footer nav {
