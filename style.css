@@ -45,7 +45,7 @@ p img {
 }
 
 figure img {
-  width: 20%;
+  width: 40%;
   height: auto;
   float: right;
 }
@@ -94,7 +94,7 @@ nav ul li:last-child a {
 h2 {
  color: #FA08A1;
   font-family: calibri;
-  font-size: 20px;
+  font-size: 160%;
 }
 
 p img {
