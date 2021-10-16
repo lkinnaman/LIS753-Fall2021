@@ -1,7 +1,7 @@
 h1 {
   color: #FA08A1;
   font-family: cooper black;
-  font-size: 60px;
+  font-size: 70px;
   text-align: center;
 }
 
@@ -20,7 +20,7 @@ h1#article-title {
 h2 {
   color: #FA08A1;
   font-family: calibri bold;
-  font-size: 50px;
+  font-size: 120%;
 }
 
 
