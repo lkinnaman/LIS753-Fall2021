@@ -1,6 +1,6 @@
 h1 {
-  color: #FA08A1;
-  font-family: cooper black;
+  color: #black;
+  font-family: gadugi;
   font-size: 70px;
   text-align: center;
 }
@@ -13,13 +13,13 @@ h1#site-title {
 }
 
 h1#article-title {
-  font-size: 50px;
+  font-size: 72px;
   text-align: center;
 }
 
 h2 {
-  color: #FA08A1;
-  font-family: calibri bold;
+  color: #light green;
+  font-family: impact;
   font-size: 120%;
 }
 
@@ -50,14 +50,6 @@ figure img {
   float: right;
 }
 
-hr {
-  position: relative;
-  top: 20px;
-  border: none;
-  height: 12px;
-  background: #FA0D334;
-  margin-bottom: 50px;
-}
 
 nav ul {
   background-color: #FA0D334;
@@ -73,7 +65,7 @@ nav ul {
 nav ul li a {
   background-color: #FA0D334;
   text-decoration: none;
-  color: #ffffff;
+  color: #black;
   padding: 8px;
   border-bottom: 1px solid #FA0D334;
   display: block;
