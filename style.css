@@ -6,8 +6,8 @@ h1 {
 }
 
 h1#site-title {
-  color: #FA08A1;
-  font-family: cooper black;
+  color: #black;
+  font-family: times;
   font-size: 60px;
   text-align: center;
 }
