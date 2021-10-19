@@ -1,21 +1,21 @@
-h1 {
-  color: #black;
-  font-family: gadugi;
-  font-size: 70px;
-  text-align: center;
-}
-
 h1#site-title {
   color: #black;
-  font-family: times;
+  font-family: rockwell;
   font-size: 60px;
   text-align: center;
 }
 
 h1#article-title {
-  font-size: 72px;
+  font-size: 70px;
   text-align: center;
 }
+
+h1 {
+  color: #black;
+  font-family: californian;
+  font-size: 70px;
+  text-align: center;
+
 
 h2 {
   color: #light green;
@@ -31,7 +31,7 @@ figure img {
 
 body {
   font-family: calibri;
-  font-size: 150%;
+  font-size: ;
 }
 
 nav ul {
@@ -45,30 +45,25 @@ nav ul {
 }
 
 nav ul li a {
-  background-color: #FA0D334;
+  background-color: ##50fa58;
   text-decoration: none;
   color: #black;
   padding: 8px;
-  border-bottom: 1px solid #FA0D334;
+  border-bottom: 1px solid #50fa58;
   display: block;
 }
 
 nav ul li a {
   hover;
   font-color: #black;
-  background-color: #FA0D334;
+  background-color: #50fa58;
 }
 
 
 h2 {
- color: #FA08A1;
+ color: #000000;
   font-family: calibri;
   font-size: 160%;
-}
-
-p img {
-  width: 200%;
-  height: auto;
 }
 
 p {
