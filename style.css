@@ -6,22 +6,34 @@ h1#site-title {
 }
 
 h1#article-title {
+  font-family: rockwell;
   font-size: 70px;
-  text-align: center;
 }
 
 h1 {
-  color: #black;
-  font-family: californian;
-  font-size: 70px;
-  text-align: center;
-
+  color: #000000;
+  font-family: helvetica;
+  font-size: 60px;
+  text-align: left;
+  padding-left: 40px
+}
 
 h2 {
-  color: #light green;
+  color: #50fa58;
   font-family: impact;
-  font-size: 120%;
+  font-size: 102px;
+  text-align: left;
+  padding-left: 40px
 }
+
+h3 {
+  color: ##50fa58;
+  font-family: helvetica;
+  font-size: 60px;
+  text-align: left;
+  padding-left: 40px
+}
+
 
 
 figure img {
@@ -31,16 +43,15 @@ figure img {
 
 body {
   font-family: calibri;
-  font-size: ;
+  font-size: 24px;
 }
 
 nav ul {
-  background-color: #FA0D334;
+  background-color: #50fa58;
   display: flex;
-  justify-content: center;
   gap: 40px;
   list-style: none;
-  padding-left: 0;
+  padding-left: 40px;
   border: none;
 }
 
@@ -59,12 +70,6 @@ nav ul li a {
   background-color: #50fa58;
 }
 
-
-h2 {
- color: #000000;
-  font-family: calibri;
-  font-size: 160%;
-}
 
 p {
   font-family: calibri;
