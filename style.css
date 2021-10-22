@@ -1,13 +1,14 @@
 h1#site-title {
   color: #black;
-  font-family: rockwell;
+  font-family: helvetica;
   font-size: 60px;
-  text-align: center;
+  text-align: left;
 }
 
 h1#article-title {
-  font-family: rockwell;
+  font-family: helvetica;
   font-size: 70px;
+  text-align: left;
 }
 
 h1 {
@@ -15,75 +16,89 @@ h1 {
   font-family: helvetica;
   font-size: 60px;
   text-align: left;
-  padding-left: 40px
+  padding-left: 60px;
 }
 
 h2 {
-  color: #50fa58;
+  color: #22C71A;
   font-family: impact;
-  font-size: 102px;
+  font-size: 112px;
   text-align: left;
-  padding-left: 40px
+  padding-left: 60px;
 }
 
 h3 {
-  color: ##50fa58;
+  color: #22C71A;
   font-family: helvetica;
-  font-size: 60px;
+  font-size: 62px;
   text-align: left;
-  padding-left: 40px
+  padding-left: 60px;
 }
 
-H4 {font-family: calibri;
-font-size: 28px;
-text-align: left;
-padding-left: 50px
+h4 {
+  font-family: helvetica;
+  font-size: 30px;
+  text-align: left;
 }
 
 figure img {
- width: 40%;
- height: auto;
+ width: ;
+ height: ;
 }
 
 body {
-  font-family: calibri;
-  font-size: 24px;
+  font-family: helvetica;
+  font-size: 26px;
+  padding-left: 40px;
+  background-color: 50fa58:
 }
 
-nav ul {
-  background-color: #50fa58;
-  display: flex;
-  gap: 40px;
-  list-style: none;
+body {
+  font-family: helvetica;
+  font-size: 26px;
   padding-left: 40px;
+  background-color: 50fa58:
+}
+
+
+
+nav ul {
+  background-color: # ;
+  border-radius: 50%;
+  width: 80px;
+  height: 160px;
+  display: flex;
+  gap: 60px;
+  list-style: none;
+  padding-left: 400px;
   border: none;
 }
 
 nav ul li a {
-  background-color: ##50fa58;
+  background-color: #FAEA0A;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
   text-decoration: none;
   color: #black;
   padding: 8px;
-  border-bottom: 1px solid #50fa58;
   display: block;
 }
 
 nav ul li a {
   hover;
-  font-color: #black;
-  background-color: #50fa58;
+  color: #000000;
+  background-color: #FAEA0A;
 }
 
 
 p {
   font-family: calibri;
-  font-size: 100%;
+  font-size: 26px;
 }
 
-footer#page-footer {
-padding: 32px 0;
-margin-top: 64px;
+footer #page-footer {
 text-align: center;
-background-color: #FA0D334;
-color: #ffffff;
+background-color: yellow;
+color: #000000;
 }
