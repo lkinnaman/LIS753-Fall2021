@@ -57,11 +57,14 @@ body {
   font-family: helvetica;
   font-size: 26px;
   padding-left: 40px;
-  background-color: 50fa58:
+  background-color: 50fa58;
 }
 
-
-
+  p {
+  border: 2px solid red;
+  border-radius: 5px;
+}
+}
 nav ul {
   background-color: # ;
   border-radius: 50%;
