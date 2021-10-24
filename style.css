@@ -35,6 +35,14 @@ h3 {
   padding-left: 60px;
 }
 
+<p> {
+color: #22c712a
+font-family: helvetica;
+font-size: 62px;
+text-align: left;
+padding-left: 60px;  
+}
+
 h4 {
   font-family: helvetica;
   font-size: 30px;
@@ -60,13 +68,9 @@ body {
   background-color: 50fa58;
 }
 
-  p {
-  border: 2px solid red;
-  border-radius: 5px;
-}
 }
 nav ul {
-  background-color: # ;
+  background-color: #FAD905;
   border-radius: 50%;
   width: 80px;
   height: 160px;
@@ -78,8 +82,9 @@ nav ul {
 }
 
 nav ul li a {
-  background-color: #FAEA0A;
+  background-color: ##FCEC05;
   border-radius: 50%;
+  list-style: none;
   width: 100px;
   height: 100px;
   text-decoration: none;
@@ -91,7 +96,7 @@ nav ul li a {
 nav ul li a {
   hover;
   color: #000000;
-  background-color: #FAEA0A;
+  background-color: ##FCEC05;
 }
 
 
@@ -102,6 +107,6 @@ p {
 
 footer #page-footer {
 text-align: center;
-background-color: yellow;
+background-color: #FCEC05;
 color: #000000;
 }
