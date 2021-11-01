@@ -1,8 +1,5 @@
-nav ul li{
-  display: flex;
-  gap: 60px;
-  list-style: none;
-  border: none;
+<figure class="main-image">
+      <img alt=
 }
 nav ul li a {
   hover;
