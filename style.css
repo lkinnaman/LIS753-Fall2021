@@ -1,5 +1,5 @@
 h1#site-title {
- color: #FC2AA5;
+ color: #ff33ff;
  font-style: helvetica;
  font-size: 80px;
  text-align: center;
@@ -16,7 +16,7 @@ h2#article-title {
 h3 {
   font-style: helvetica;
   font-size: 42px;
-  color: #FC2AA5;
+  color: #ff33ff;
   text-align: center;;
   }
 
@@ -45,7 +45,7 @@ nav ul li a {
 }
 
 hr {
-  border-top: 3px solid #FC2AA5;
+  border-top: 3px solid #ff33ff;
   padding-right: 60px;
   padding-left: 60px;
 }
@@ -77,6 +77,7 @@ p {
 footer {
    font-style: helvetica;
    font-size: 10px;
+   text-align: center;
 }
 
 footer#page-footer {
@@ -84,7 +85,6 @@ footer#page-footer {
   font-size: 10px;
   padding: 32px 0;
   margin-top: 44px;
-  text-align: center;
-  background-color: #FC2AA5;
+  background-color: #ff33ff;
   color: #000000;
 }
