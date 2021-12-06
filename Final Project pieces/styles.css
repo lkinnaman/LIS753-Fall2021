@@ -5,6 +5,7 @@ li {
 
 hr {
 	background-color: black;
+	height: 2px;
 }
 
 img {
@@ -32,7 +33,7 @@ body {
 .titles {
 	text-align: center;
 	font-family: 'Courier New', monospace;
-  font-size: 70px;
+  font-size: 90px;
 	font-weight: 100;
 }
 
@@ -43,13 +44,13 @@ footer {
 	text-align: center;
 }
 
-ul li a:link{
+ul li a:link {
 	font-family: 'Monaco', monospace;
 	font-size: 110%;
 	color: #ce5501;
 }
 
-ul li a:visited{
+ul li a:visited {
 	font-family: 'Monaco', monospace;
 	font-size: 110%;
 	color: #963f2d;
@@ -61,4 +62,9 @@ ul li a:visited{
 
 .background-yellow {
 	background-color: #fff19f;
+}
+
+footer p {
+     font-size: 12px;
+     text-align: center;
 }
