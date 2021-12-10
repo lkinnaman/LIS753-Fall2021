@@ -1,3 +1,7 @@
+/* * {
+	background-color: #fff19f;
+} */
+
 li {
 	text-align: center;
 	list-style-type: none;
@@ -35,7 +39,10 @@ body {
 	font-family: 'Courier New', monospace;
   font-size: 90px;
 	font-weight: 100;
+	background-image: url("images/organicyellow.png");
+	height:100px;
 }
+
 
 footer {
 	font-family: 'Monaco', monospace;
@@ -54,10 +61,6 @@ ul li a:visited {
 	font-family: 'Monaco', monospace;
 	font-size: 110%;
 	color: #963f2d;
-}
-
-* {
-	background-color: #fff19f;
 }
 
 .background-yellow {
